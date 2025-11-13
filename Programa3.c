@@ -1,5 +1,5 @@
 /*David Alejandro Martínez Vega L´Englisse
-practica 11 ejercicio 2a*/
+practica 11 ejercicio 3a*/
 
 #include <stdio.h>
 int resultado; //variable global
