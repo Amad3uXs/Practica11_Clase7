@@ -1,5 +1,5 @@
 /*David Alejandro Martínez Vega L´Englisse
-practica 11 ejercicio 3a*/
+practica 11 ejercicio 2*/
 
 #include <stdio.h>
 
